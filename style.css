@@ -53,3 +53,18 @@ body {
         height: 100%;
     }
   }
+
+  #basic {
+    height: 100px;
+    margin-bottom: -30px;
+  }
+
+  #standard {
+    height: 150px;
+    margin-bottom: -60px;
+  }
+
+  #premium {
+    height: 200px;
+    margin-bottom: -90px;
+  }
